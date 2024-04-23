@@ -3,7 +3,9 @@
     Made by Monnapse
     0.1.0
 
-    python Shark.py Path/To/Your/File.html
+    python Shark.py path Path/To/Your/File.html
+    or
+    python Shark.py string test123"Test123"
 """
 
 import sys
